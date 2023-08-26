@@ -4,8 +4,7 @@
 
 **Reference:** <a href="https://www.freepik.com/free-vector/diagram-showing-plant-tissue-systems_13225510.htm#query=plant%20disease&position=2&from_view=keyword&track=ais">Image by brgfx</a> on Freepik
 
-![Uploading dn6l_xokd_230131.jpg…]()
-
+![dn6l_xokd_230131](https://github.com/ParthaPRay/Plant-Leaf-Informatics/assets/1689639/3cd84571-5e8e-4080-bec3-1e092843da8c)
 
 
 **Reference:** <a href="https://www.freepik.com/free-vector/internal-structure-leaf-diagram_38661630.htm#query=plant%20leaf%20anatomy&position=3&from_view=search&track=ais">Image by brgfx</a> on Freepik
