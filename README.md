@@ -32,15 +32,32 @@ This repo contains scattering, diffusion, absorption, reflection of plant's leaf
 **Reference:** Tanner, F., Tonn, S., de Wit, J. et al. Sensor-based phenotyping of above-ground plant-pathogen interactions. Plant Methods 18, 35 (2022). https://doi.org/10.1186/s13007-022-00853-7
 
 
-
 4. **Explnation 4**
+
+![image](https://github.com/ParthaPRay/Scattering-Diffusion-Absorption-Reflection-of-Plant-Leaf/assets/1689639/33eb4a5c-6974-4be8-8141-bae0567dadd3)
+
+**Caption:** About 78% of photosynthetically active radiation (PAR) falling on a leaf is absorbed, while the rest is reflected or transmitted. The result of this solar broadband filtering is that ≤ 30% of incident light is available to drive photosynthesis. Photochemical inefficiency, photonic mismatch, and metabolic overhead further whittle quantum efficiency of photosynthesis conversion of solar energy to biomass down to 0.5-1.3% at mid-latitude when averaged over the whole year (Bisio and Bisio 1997). Image adapted from ESA Bull. 116, 2003.
+
+**Reference:** https://agrosphere-international.net/blog/chlorophyll-fluorescence-induction/interrogating-plant-status-in-the-key-of-f/
+
+5. **Explnation 5**
+   
+![image](https://github.com/ParthaPRay/Scattering-Diffusion-Absorption-Reflection-of-Plant-Leaf/assets/1689639/0034a912-622c-4dcd-9254-228e1a364155)
+
+**Caption:** Conceptual overview of fates of photons in Photosystem II.
+
+Incident photons (downward waves) are differentially absorbed (ā*) depending upon the particular absorbance spectra of the antenna pigment protein complexes serving PSII, indicated as a green trapezoid to reflect the diversity of antenna pigments and protein structures across taxa. A variable fraction of the excitons is dissipated as heat (yellow-orange arrow, NPQ); a further small fraction of excitons are dissipated as fluorescence emitted from the antenna (red arrow). The remaining excitons are transferred into the inner antenna of the PSII reaction centre (downward red arrows). Of these excitons a small but variable fraction are again dissipated as fluorescence (red arrow) from the pigments of the reaction centre. The remaining excitons provoke PSII photochemistry (σPSII; A2 quanta-1) leading to charge separation and electron transport with a variable yield (ΦPSII), or to fast recombinations resulting in heat emission (yellow-orange arrow, NPQ). If excitation is high relative to downstream electron transport excited intermediates can accumulate. This provokes production of singlet oxygen (1O2), which leads to an increase in the probability of PSII inactivation, herein parameterized Φi PSII, a dimensionless yield for inactivation of a PSII by a photon delivered through the PSII antenna. Short wavelength photons can also be directly absorbed by the manganese cluster of the oxygen evolving complex (thin violet wave), leading to direct photoinactivation. This figure is based upon concepts reviewed in [18,44,52,62,68].
+
+**Reference:** Murphy CD, Roodvoets MS, Austen EJ, Dolan A, Barnett A, Campbell DA. Photoinactivation of photosystem II in Prochlorococcus and Synechococcus. PLoS One. 2017 Jan 27;12(1):e0168991.
+
+6. **Explnation 6**
 
 ![image](https://github.com/ParthaPRay/Scattering-Diffusion-Absorption-Reflection-of-Plant-Leaf/assets/1689639/08b1c0fb-e407-49e4-93ce-f8bc3b00188c)
 
 **Reference:** Sarić R, Nguyen VD, Burge T, Berkowitz O, Trtílek M, Whelan J, Lewsey MG, Čustović E. Applications of hyperspectral imaging in plant phenotyping. Trends in plant science. 2022 Mar 1.
 
 
-5. **Explnation 5**
+7. **Explnation 7**
 
 ![image](https://github.com/ParthaPRay/Scattering-Diffusion-Absorption-Reflection-of-Plant-Leaf/assets/1689639/70306080-dbda-4a64-9318-44feb290b1b6)
 
@@ -50,7 +67,7 @@ This repo contains scattering, diffusion, absorption, reflection of plant's leaf
 **Reference:** Fernández-Calleja M, Monteagudo A, Casas AM, Boutin C, Pin PA, Morales F, Igartua E. Rapid on-site phenotyping via field fluorimeter detects differences in photosynthetic performance in a hybrid—parent barley germplasm set. Sensors. 2020 Mar 8;20(5):1486.
 
 
-6. **Explnation 6**
+8. **Explnation 8**
 
    
 ![41598_2023_31718_Fig2_HTML](https://github.com/ParthaPRay/Scattering-Diffusion-Absorption-Reflection-of-Plant-Leaf/assets/1689639/1f8e60b3-d5e1-489e-b96d-3929ec31b097)
