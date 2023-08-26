@@ -8,6 +8,14 @@
 This repo contains scattering, diffusion, absorption, reflection of plant's leaf
 
 
+# Plant Cohesion
+
+![qol9_w7jm_220203](https://github.com/ParthaPRay/Plant-Leaf-Informatics/assets/1689639/fe77fa33-8f22-40ba-8552-89e03f975b13)
+
+
+**Reference:**  <a href="https://www.freepik.com/free-vector/digram-showing-movement-water-plants_27546482.htm#page=2&query=plant%20disease&position=5&from_view=search&track=ais">Image by brgfx</a> on Freepik
+
+
 # Pollination
 
 ![36007](https://github.com/ParthaPRay/Plant-Leaf-Informatics/assets/1689639/1c59f422-109b-4d50-b4da-e1220352e235)
