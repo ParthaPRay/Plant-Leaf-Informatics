@@ -15,6 +15,11 @@
 **Reference:** <a href="https://www.freepik.com/free-vector/diagram-showing-xylem-phloem-plant_13225464.htm#page=3&query=plant%20disease&position=25&from_view=search&track=ais">Image by brgfx</a> on Freepik
 
 
+# Plant Photosynthesis
+
+![jghf_4is2_210818](https://github.com/ParthaPRay/Plant-Leaf-Informatics/assets/1689639/75c85e13-197b-4337-b0f0-8fe669e794cc)
+
+**Reference:** <a href="https://www.freepik.com/free-vector/diagram-showing-process-photosynthesis-plant_20500234.htm#page=3&query=plant%20disease&position=14&from_view=search&track=ais">Image by brgfx</a> on Freepik
 
 # Plant Cohesion
 
