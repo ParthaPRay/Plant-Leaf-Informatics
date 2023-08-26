@@ -40,8 +40,17 @@ This repo contains scattering, diffusion, absorption, reflection of plant's leaf
 **Reference:** Sarić R, Nguyen VD, Burge T, Berkowitz O, Trtílek M, Whelan J, Lewsey MG, Čustović E. Applications of hyperspectral imaging in plant phenotyping. Trends in plant science. 2022 Mar 1.
 
 
-
 5. **Explnation 5**
+
+![image](https://github.com/ParthaPRay/Scattering-Diffusion-Absorption-Reflection-of-Plant-Leaf/assets/1689639/70306080-dbda-4a64-9318-44feb290b1b6)
+
+
+**Caption:** Three competing fates of light energy absorbed by leaf chlorophylls and carotenoids: (1) photochemistry, (2) heat dissipation, and (3) chlorophyll fluorescence. MultispeQ field fluorimeter measures chlorophyll fluorescence in response to light saturating pulses, enabling to estimate the energy proportion allocated towards photochemistry (φII), regulated non-photochemical energy loss (φNPQ), and non-regulated non-photochemical energy loss (φNO). The MultispeQ device is connected via Bluetooth with the Photosynq app installed on a smartphone. The data collected in the field is sent to the cloud, then the users can use analysis tools, discuss and share the data in the web interface.
+
+**Reference:** Fernández-Calleja M, Monteagudo A, Casas AM, Boutin C, Pin PA, Morales F, Igartua E. Rapid on-site phenotyping via field fluorimeter detects differences in photosynthetic performance in a hybrid—parent barley germplasm set. Sensors. 2020 Mar 8;20(5):1486.
+
+
+6. **Explnation 6**
 
    
 ![41598_2023_31718_Fig2_HTML](https://github.com/ParthaPRay/Scattering-Diffusion-Absorption-Reflection-of-Plant-Leaf/assets/1689639/1f8e60b3-d5e1-489e-b96d-3929ec31b097)
