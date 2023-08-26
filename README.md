@@ -147,3 +147,12 @@ Incident photons (downward waves) are differentially absorbed (ā*) depending up
 **Caption:** Signs and symptoms of plant-pathogen interactions. Depicted skeletal formulas are glucose, representing primary metabolism, and cinnamic acid, representing secondary metabolism
 
 **Reference:** Tanner, F., Tonn, S., de Wit, J. et al. Sensor-based phenotyping of above-ground plant-pathogen interactions. Plant Methods 18, 35 (2022). https://doi.org/10.1186/s13007-022-00853-7
+
+
+
+# various Measuring Parameters
+
+![leaf measurement parameters](https://github.com/ParthaPRay/Plant-Leaf-Informatics/assets/1689639/a02da331-6b4b-4503-983b-8bdc463aa2be)
+
+**Reference:** https://youtu.be/oJggehFcWI4
+
