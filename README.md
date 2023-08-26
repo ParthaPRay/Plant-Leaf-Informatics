@@ -4,6 +4,12 @@
 
 **Reference:** <a href="https://www.freepik.com/free-vector/diagram-showing-plant-tissue-systems_13225510.htm#query=plant%20disease&position=2&from_view=keyword&track=ais">Image by brgfx</a> on Freepik
 
+# Vascular Tissue Xylem and Phloem
+
+![eshp_ornh_230124](https://github.com/ParthaPRay/Plant-Leaf-Informatics/assets/1689639/f145a369-af3f-4d09-b193-01ee5c366a19)
+
+
+**Reference:** <a href="https://www.freepik.com/free-vector/plant-cohesion-vascular-tissue-xylem-phloem_37881485.htm#page=2&query=plant%20disease&position=24&from_view=search&track=ais">Image by brgfx</a> on Freepik
 
 # Plant Cohesion
 
