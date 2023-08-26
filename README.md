@@ -42,6 +42,8 @@ This repo contains scattering, diffusion, absorption, reflection of plant's leaf
 
 
 5. **Explnation 5**
+
+   
 ![41598_2023_31718_Fig2_HTML](https://github.com/ParthaPRay/Scattering-Diffusion-Absorption-Reflection-of-Plant-Leaf/assets/1689639/1f8e60b3-d5e1-489e-b96d-3929ec31b097)
 
 **Caption:** Radiation transfer models of natural leaves, (a) schematic diagram of stacked mesophyll cells,
