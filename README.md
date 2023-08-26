@@ -23,7 +23,8 @@ This repo contains scattering, diffusion, absorption, reflection of plant's leaf
 **Reference:** Image-based quantitative infrared analysis and microparticle characterisation for pulp and paper applications, January 2016, DOI:10.13140/RG.2.1.2595.6884, Thesis for: PhDAdvisor: Lars Mattsson, Hannes Vomhoff, Authors: Kari Hyll Skogforsk
 
 
-**3. Explnation 3**
+3. **Explnation 3**
+   
 ![13007_2022_853_Fig2_HTML](https://github.com/ParthaPRay/Scattering-Diffusion-Absorption-Reflection-of-Plant-Leaf/assets/1689639/8e8c6b39-d743-47b5-8942-1a19ca0f9b51)
 
 **Caption:** Physical paths of electromagnetic radiation in biological samples and their detection using non-invasive sensors. Passive (ambient light) or active radiation can be used to illuminate or excite the sample. Radiation can be reflected, transmitted, scattered, absorbed and re-emitted by the sample to varying degrees. The characteristic radiation can then be measured with sensors positioned on the side of the source of illumination or on the opposite side of the sample
@@ -32,7 +33,7 @@ This repo contains scattering, diffusion, absorption, reflection of plant's leaf
 
 
 
-**4. Explnation 4**
+4. **Explnation 4**
 
 ![image](https://github.com/ParthaPRay/Scattering-Diffusion-Absorption-Reflection-of-Plant-Leaf/assets/1689639/08b1c0fb-e407-49e4-93ce-f8bc3b00188c)
 
@@ -40,7 +41,7 @@ This repo contains scattering, diffusion, absorption, reflection of plant's leaf
 
 
 
-**5. Explnation 5**
+5. **Explnation 5**
 ![41598_2023_31718_Fig2_HTML](https://github.com/ParthaPRay/Scattering-Diffusion-Absorption-Reflection-of-Plant-Leaf/assets/1689639/1f8e60b3-d5e1-489e-b96d-3929ec31b097)
 
 **Caption:** Radiation transfer models of natural leaves, (a) schematic diagram of stacked mesophyll cells,
