@@ -19,8 +19,16 @@ This repo contains scattering, diffusion, absorption, reflection of plant's leaf
 
 **Reference:** Image-based quantitative infrared analysis and microparticle characterisation for pulp and paper applications, January 2016, DOI:10.13140/RG.2.1.2595.6884, Thesis for: PhDAdvisor: Lars Mattsson, Hannes Vomhoff, Authors: Kari Hyll Skogforsk
 
-**3. Explnation 3**
 
+**3. Explnation 3**
+![13007_2022_853_Fig2_HTML](https://github.com/ParthaPRay/Scattering-Diffusion-Absorption-Reflection-of-Plant-Leaf/assets/1689639/8e8c6b39-d743-47b5-8942-1a19ca0f9b51)
+
+**Caption:** Physical paths of electromagnetic radiation in biological samples and their detection using non-invasive sensors. Passive (ambient light) or active radiation can be used to illuminate or excite the sample. Radiation can be reflected, transmitted, scattered, absorbed and re-emitted by the sample to varying degrees. The characteristic radiation can then be measured with sensors positioned on the side of the source of illumination or on the opposite side of the sample
+
+**Reference:** Tanner, F., Tonn, S., de Wit, J. et al. Sensor-based phenotyping of above-ground plant-pathogen interactions. Plant Methods 18, 35 (2022). https://doi.org/10.1186/s13007-022-00853-7
+
+
+**4. Explnation 4**
 ![41598_2023_31718_Fig2_HTML](https://github.com/ParthaPRay/Scattering-Diffusion-Absorption-Reflection-of-Plant-Leaf/assets/1689639/1f8e60b3-d5e1-489e-b96d-3929ec31b097)
 
 **Caption:** Radiation transfer models of natural leaves, (a) schematic diagram of stacked mesophyll cells,
@@ -29,3 +37,12 @@ This repo contains scattering, diffusion, absorption, reflection of plant's leaf
 
 
 **Reference:** Xu, K., Ye, H. Light scattering in stacked mesophyll cells results in similarity characteristic of solar spectral reflectance and transmittance of natural leaves. Sci Rep 13, 4694 (2023). https://doi.org/10.1038/s41598-023-31718-1
+
+
+# Misc
+
+![image](https://github.com/ParthaPRay/Scattering-Diffusion-Absorption-Reflection-of-Plant-Leaf/assets/1689639/df4defbc-4aab-4e0c-8c05-45cd4f79f701)
+
+**Caption:** Signs and symptoms of plant-pathogen interactions. Depicted skeletal formulas are glucose, representing primary metabolism, and cinnamic acid, representing secondary metabolism
+
+**Reference:** Tanner, F., Tonn, S., de Wit, J. et al. Sensor-based phenotyping of above-ground plant-pathogen interactions. Plant Methods 18, 35 (2022). https://doi.org/10.1186/s13007-022-00853-7
