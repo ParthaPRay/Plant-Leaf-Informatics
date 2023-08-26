@@ -28,7 +28,7 @@
 ![36968](https://github.com/ParthaPRay/Plant-Leaf-Informatics/assets/1689639/5fdae0b6-f7ad-45e6-bec0-0309e9421981)
 
 
-**Reference:** <a href="https://www.freepik.com/free-vector/diagram-showing-process-photosynthesis-plant_20500234.htm#page=3&query=plant%20disease&position=14&from_view=search&track=ais">Image by brgfx</a> on Freepik
+**Reference:** <a href="https://www.freepik.com/free-vector/diagram-showing-transpiration-plant_6409364.htm#query=plant%20disease&position=43&from_view=search&track=ais">Image by brgfx</a> on Freepik
 
 # Plant Cohesion
 
