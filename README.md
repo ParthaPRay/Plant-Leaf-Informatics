@@ -27,8 +27,16 @@ This repo contains scattering, diffusion, absorption, reflection of plant's leaf
 
 **Reference:** Tanner, F., Tonn, S., de Wit, J. et al. Sensor-based phenotyping of above-ground plant-pathogen interactions. Plant Methods 18, 35 (2022). https://doi.org/10.1186/s13007-022-00853-7
 
-
 **4. Explnation 4**
+
+![image](https://github.com/ParthaPRay/Scattering-Diffusion-Absorption-Reflection-of-Plant-Leaf/assets/1689639/08b1c0fb-e407-49e4-93ce-f8bc3b00188c)
+
+**Caption:** 
+
+**Reference:** Sarić R, Nguyen VD, Burge T, Berkowitz O, Trtílek M, Whelan J, Lewsey MG, Čustović E. Applications of hyperspectral imaging in plant phenotyping. Trends in plant science. 2022 Mar 1.
+
+
+**5. Explnation 5**
 ![41598_2023_31718_Fig2_HTML](https://github.com/ParthaPRay/Scattering-Diffusion-Absorption-Reflection-of-Plant-Leaf/assets/1689639/1f8e60b3-d5e1-489e-b96d-3929ec31b097)
 
 **Caption:** Radiation transfer models of natural leaves, (a) schematic diagram of stacked mesophyll cells,
