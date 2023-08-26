@@ -1,3 +1,9 @@
+# Plant Tissue System
+
+![v4tq_9bco_210121](https://github.com/ParthaPRay/Scattering-Diffusion-Absorption-Reflection-of-Plant-Leaf/assets/1689639/271acf1a-de9f-4d1a-b76e-0bdc1fc1054b)
+
+**Reference:** <a href="https://www.freepik.com/free-vector/diagram-showing-plant-tissue-systems_13225510.htm#query=plant%20disease&position=2&from_view=keyword&track=ais">Image by brgfx</a> on Freepik
+
 # Scattering-Diffusion-Absorption-Reflection-of-Plant-Leaf
 This repo contains scattering, diffusion, absorption, reflection of plant's leaf
 
