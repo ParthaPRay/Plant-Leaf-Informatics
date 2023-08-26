@@ -21,6 +21,14 @@
 
 **Reference:** <a href="https://www.freepik.com/free-vector/diagram-showing-process-photosynthesis-plant_20500234.htm#page=3&query=plant%20disease&position=14&from_view=search&track=ais">Image by brgfx</a> on Freepik
 
+
+# Plant Transpiration
+
+![jghf_4is2_210818](https://github.com/ParthaPRay/Plant-Leaf-Informatics/assets/1689639/ebde15f3-80d7-4ba6-90a3-ef99bcdf47f5)
+
+
+**Reference:** <a href="https://www.freepik.com/free-vector/diagram-showing-process-photosynthesis-plant_20500234.htm#page=3&query=plant%20disease&position=14&from_view=search&track=ais">Image by brgfx</a> on Freepik
+
 # Plant Cohesion
 
 ![qol9_w7jm_220203](https://github.com/ParthaPRay/Plant-Leaf-Informatics/assets/1689639/fe77fa33-8f22-40ba-8552-89e03f975b13)
