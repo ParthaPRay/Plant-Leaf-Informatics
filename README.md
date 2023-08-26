@@ -21,6 +21,12 @@
 
 **Reference:** <a href="https://www.freepik.com/free-vector/diagram-showing-process-photosynthesis-plant_20500234.htm#page=3&query=plant%20disease&position=14&from_view=search&track=ais">Image by brgfx</a> on Freepik
 
+![28046](https://github.com/ParthaPRay/Plant-Leaf-Informatics/assets/1689639/8196c6be-31db-487d-bbb8-5b6e947e8cd8)
+
+
+**Reference:** <a href="https://www.freepik.com/free-vector/biological-photosynthesis-infographic-elements-with-light-energy-conversion-calvin-cycle-scheme-plants-cellular-respiration-colorful_6847341.htm#query=plant%20chlorophyll&position=0&from_view=search&track=ais">Image by macrovector</a> on Freepik
+
+
 
 # Plant Transpiration
 
