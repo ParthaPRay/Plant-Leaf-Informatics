@@ -156,3 +156,13 @@ Incident photons (downward waves) are differentially absorbed (ā*) depending up
 
 **Reference:** https://youtu.be/oJggehFcWI4
 
+# Leaf Capacitance
+
+![image](https://github.com/ParthaPRay/Plant-Leaf-Informatics/assets/1689639/8665d6ad-faa5-4ebf-a895-d0d8f2baa03e)
+
+**Caption:** Exploded diagram of the leaf sensor and (b) photo of the leaf sensor on a tomato leaf.
+
+**Reference:** Afzal A, Duiker SW, Watson JE, Luthe D. Leaf thickness and electrical capacitance as measures of plant water status. Transactions of the ASABE. 2017;60(4):1063-74.
+
+
+
