@@ -4,6 +4,7 @@ This repo contains scattering, diffusion, absorption, reflection of plant's leaf
 
 # Illustration of transmission, absorption and scattering (reflection, refraction, diffraction) of the incident radiation.
 
+
 1. **Explanation 1**
 
 ![applsci-12-00997-g001](https://github.com/ParthaPRay/Scattering-Diffusion-Absorption-Reflection-of-Plant-Leaf/assets/1689639/b4d0db88-3449-4b06-b814-6c73d2132531)
@@ -12,6 +13,8 @@ This repo contains scattering, diffusion, absorption, reflection of plant's leaf
 
  
 **Reference:** Cavaco AM, Utkin AB, Marques da Silva J, Guerra R. Making Sense of Light: The Use of Optical Spectroscopy Techniques in Plant Sciences and Agriculture. Applied Sciences. 2022 Jan 19;12(3):997.
+
+
 
 2. **Explanation 2**
    
@@ -27,13 +30,14 @@ This repo contains scattering, diffusion, absorption, reflection of plant's leaf
 
 **Reference:** Tanner, F., Tonn, S., de Wit, J. et al. Sensor-based phenotyping of above-ground plant-pathogen interactions. Plant Methods 18, 35 (2022). https://doi.org/10.1186/s13007-022-00853-7
 
+
+
 **4. Explnation 4**
 
 ![image](https://github.com/ParthaPRay/Scattering-Diffusion-Absorption-Reflection-of-Plant-Leaf/assets/1689639/08b1c0fb-e407-49e4-93ce-f8bc3b00188c)
 
-**Caption:** 
-
 **Reference:** Sarić R, Nguyen VD, Burge T, Berkowitz O, Trtílek M, Whelan J, Lewsey MG, Čustović E. Applications of hyperspectral imaging in plant phenotyping. Trends in plant science. 2022 Mar 1.
+
 
 
 **5. Explnation 5**
@@ -47,7 +51,7 @@ This repo contains scattering, diffusion, absorption, reflection of plant's leaf
 **Reference:** Xu, K., Ye, H. Light scattering in stacked mesophyll cells results in similarity characteristic of solar spectral reflectance and transmittance of natural leaves. Sci Rep 13, 4694 (2023). https://doi.org/10.1038/s41598-023-31718-1
 
 
-# Misc
+# Miscelleneous 
 
 ![image](https://github.com/ParthaPRay/Scattering-Diffusion-Absorption-Reflection-of-Plant-Leaf/assets/1689639/df4defbc-4aab-4e0c-8c05-45cd4f79f701)
 
