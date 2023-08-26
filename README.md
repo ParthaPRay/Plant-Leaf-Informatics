@@ -8,6 +8,14 @@
 This repo contains scattering, diffusion, absorption, reflection of plant's leaf
 
 
+# Pollination
+
+![36007](https://github.com/ParthaPRay/Plant-Leaf-Informatics/assets/1689639/1c59f422-109b-4d50-b4da-e1220352e235)
+
+
+**Reference:** <a href="https://www.freepik.com/free-vector/diagram-showing-pollination-with-flower-bee_6052414.htm#query=plant%20disease&position=49&from_view=search&track=ais">Image by brgfx</a> on Freepik
+
+
 # Illustration of transmission, absorption and scattering (reflection, refraction, diffraction) of the incident radiation.
 
 
